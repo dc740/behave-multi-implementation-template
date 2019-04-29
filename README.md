@@ -1,4 +1,4 @@
-# behave-multi-implementation-template
+# Python Behave: Multi-implementation Template
 This is a template to create a Behave project with multiple implementations for a single Features definition.
 
 Edit the `stage` parameter in `behave.ini` to change the implementation.
